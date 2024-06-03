@@ -1,0 +1,19 @@
+.About {
+  text-align: left;
+  color: #FFF;
+  background-color:#1A1B21;
+  padding: 5px 30px;
+
+}
+
+.About > h2 {
+  font-size: 16px;
+  margin-bottom: 0px;
+}
+
+.About > p {
+  font-size: 10px;
+  font-weight: 200;
+  margin-top: 5px;
+  color: #DCDCDC;
+}

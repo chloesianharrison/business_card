@@ -1,0 +1,19 @@
+.Footer{
+  height: 64px;
+  background-color: #161619;
+  color: #918E9B;
+  font-size: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.Footer > a {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Footer > a:visited{
+  color: #FFF;
+}
